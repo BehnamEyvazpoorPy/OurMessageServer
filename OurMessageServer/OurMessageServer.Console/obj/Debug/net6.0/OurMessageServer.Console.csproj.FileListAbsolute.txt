@@ -1,0 +1,15 @@
+C:\workspeace\OurMessageServer\OurMessageServer\OurMessageServer.Console\bin\Debug\net6.0\OurMessageServer.Console.exe
+C:\workspeace\OurMessageServer\OurMessageServer\OurMessageServer.Console\bin\Debug\net6.0\OurMessageServer.Console.deps.json
+C:\workspeace\OurMessageServer\OurMessageServer\OurMessageServer.Console\bin\Debug\net6.0\OurMessageServer.Console.runtimeconfig.json
+C:\workspeace\OurMessageServer\OurMessageServer\OurMessageServer.Console\bin\Debug\net6.0\OurMessageServer.Console.dll
+C:\workspeace\OurMessageServer\OurMessageServer\OurMessageServer.Console\bin\Debug\net6.0\ref\OurMessageServer.Console.dll
+C:\workspeace\OurMessageServer\OurMessageServer\OurMessageServer.Console\bin\Debug\net6.0\OurMessageServer.Console.pdb
+C:\workspeace\OurMessageServer\OurMessageServer\OurMessageServer.Console\obj\Debug\net6.0\OurMessageServer.Console.csproj.AssemblyReference.cache
+C:\workspeace\OurMessageServer\OurMessageServer\OurMessageServer.Console\obj\Debug\net6.0\OurMessageServer.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspeace\OurMessageServer\OurMessageServer\OurMessageServer.Console\obj\Debug\net6.0\OurMessageServer.Console.AssemblyInfoInputs.cache
+C:\workspeace\OurMessageServer\OurMessageServer\OurMessageServer.Console\obj\Debug\net6.0\OurMessageServer.Console.AssemblyInfo.cs
+C:\workspeace\OurMessageServer\OurMessageServer\OurMessageServer.Console\obj\Debug\net6.0\OurMessageServer.Console.csproj.CoreCompileInputs.cache
+C:\workspeace\OurMessageServer\OurMessageServer\OurMessageServer.Console\obj\Debug\net6.0\OurMessageServer.Console.dll
+C:\workspeace\OurMessageServer\OurMessageServer\OurMessageServer.Console\obj\Debug\net6.0\ref\OurMessageServer.Console.dll
+C:\workspeace\OurMessageServer\OurMessageServer\OurMessageServer.Console\obj\Debug\net6.0\OurMessageServer.Console.pdb
+C:\workspeace\OurMessageServer\OurMessageServer\OurMessageServer.Console\obj\Debug\net6.0\OurMessageServer.Console.genruntimeconfig.cache
