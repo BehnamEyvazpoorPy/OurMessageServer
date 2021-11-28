@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cf59df53-4269-4a4a-9f36-4611a81f8577": {
+      "ProjectGuid": "cf59df53-4269-4a4a-9f36-4611a81f8577",
+      "DisplayName": "OurMessageServer.Console",
+      "ColorIndex": 0
+    },
+    "e883352c-caf2-47f0-97b9-edddfc8dd825": {
+      "ProjectGuid": "e883352c-caf2-47f0-97b9-edddfc8dd825",
+      "DisplayName": "OurMessageServer.TextEngine",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
