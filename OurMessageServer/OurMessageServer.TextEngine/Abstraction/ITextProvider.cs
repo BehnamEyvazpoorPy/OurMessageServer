@@ -1,7 +1,9 @@
-﻿namespace OurMessageServer.TextEngine.Abstraction
+﻿using OurMessageServer.TextEngine.Models;
+
+namespace OurMessageServer.TextEngine.Abstraction
 {
-	public interface ITextProvider
+	internal interface ITextProvider
 	{
-		public List<string> Provide(string templateName);
+		public List<string> Provide(Template template);
 	}
 }

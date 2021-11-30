@@ -1,6 +1,6 @@
 ﻿namespace OurMessageServer.TextEngine.Models
 {
-	internal class QueryResult
+	internal class DynamicTemplate:Template
 	{
 	}
 }
